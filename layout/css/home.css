@@ -1,0 +1,11 @@
+body{
+    background-color: #efefef;
+}
+.prof_data{
+    margin: auto;
+    width: 60%;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: 150px;
+    text-align: center;
+}
